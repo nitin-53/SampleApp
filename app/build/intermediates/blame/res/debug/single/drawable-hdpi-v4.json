@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nitin/AndroidStudioProjects/SampleApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/nitin/AndroidStudioProjects/SampleApp/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nitin/AndroidStudioProjects/SampleApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_image2.jpg",
+        "source": "/home/nitin/AndroidStudioProjects/SampleApp/app/src/main/res/drawable-hdpi/bg_image2.jpg"
+    }
+]

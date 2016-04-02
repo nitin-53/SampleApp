@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="t">Thought of the day</string>
+    <style name="TextAppearance">
+    	<item name="android:textSize">24sp</item>
+    	<item name="android:textColor">#ffff00</item>
+    	<item name="android:shadowDx">0</item>
+    	<item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">1</item>
+	</style>
+    <style name="TextAppearanceDate">
+    	<item name="android:textSize">20sp</item>
+    	<item name="android:textColor">#ffff00</item>
+    	<item name="android:shadowDx">0</item>
+    	<item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">1</item>
+	</style>
+</resources>
